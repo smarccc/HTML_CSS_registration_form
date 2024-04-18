@@ -1,0 +1,166 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7vw;
+    border-collapse: collapse;
+    
+    
+}
+
+.header{
+    height: 35px;
+}
+.footer{
+    height: 50px;
+}
+
+.p_bold{
+    font-weight: bold;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+	background-image: url('20240326_082804.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+}
+
+.main_container{
+    width: 55%;
+   justify-content: center;
+   background-color: white;
+    
+}
+
+.align_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.registration_form{
+   
+    width: 90%;
+}
+
+.header_container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+
+    
+}
+
+.cct_information{
+    width: 33.3333333333%;
+    text-align: center;
+    color: #d81616;
+}
+
+
+.tagaytay_city_officialseal_pic{
+ 
+    width: 33.3333333333%;
+}
+
+.cct_logo_pic{
+
+    width: 33.3333333333%;
+}
+.first_table,.third_table {
+    border: 2px solid maroon;
+    border-bottom: none;
+    border-collapse: collapse;
+  }
+
+th{
+    background-color: maroon;
+    color: white;
+}
+
+.border{
+
+    border-right: 2px solid maroon;
+  
+    
+}
+.border_tr{
+    border-bottom: 2px solid maroon;
+    
+}
+.maroon_name{
+    color: maroon;
+	font-weight: 200px;
+}
+.table_end{
+    border-bottom: 2px solid maroon;
+}
+.table_footer{
+    border-left: none ;
+}
+.second_table{
+    border: none;
+    background-color: #feff99;
+    
+}
+
+.assessment{
+    padding-left: 15px;
+}
+.cashier{
+    text-align: center;
+}
+.price{
+    text-align: end;
+    padding-right: 15px;
+}
+.third_table{
+    border: 2px solid maroon;
+}
+
+
+img{
+    height: 4.5vw;
+    padding: 20px;
+}
+.cct_logo_pic{
+    text-align: right;
+    
+    
+}
+.first_layer{
+    margin-bottom: 24px;
+}
+.second_layer{
+    margin-bottom: 24px;
+}
+.first_layer p{
+    margin-bottom: -4%;
+    
+
+}
+.second_layer p{
+    margin-bottom: -4%;
+}
+.color_black{
+    color: black;
+}
+
+.last_table{
+    border: 2px solid maroon;
+    margin-top: 2%;
+}
+.layer_2{
+    text-align: right;
+    
+}
+.layer_2 td{
+    padding-right: 10%;
+}
+
+.last_table tr{
+    height: 30px;
+    
+}
