@@ -164,12 +164,16 @@ img{
     height: 30px;
     
 }
-
-@media only screen and (max-width: 100px) {
+@media only screen and (max-width: 576px) {
     .main_container{
-        width: 100%;
+        width: 95%;
        justify-content: center;
        background-color: white;
         
+    }
+
+    .registration_form{
+   
+        width: 90%;
     }
 }
