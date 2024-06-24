@@ -28,7 +28,7 @@ body{
 }
 
 .main_container{
-    width: 55%;
+    width: 90%;
    justify-content: center;
    background-color: white;
     
@@ -175,5 +175,28 @@ img{
     .registration_form{
    
         width: 90%;
+    }
+
+    body{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .cct_information{
+        width: 33.3333333333%;
+        text-align: center;
+        color: #d81616;
+    }
+    
+    
+    .tagaytay_city_officialseal_pic{
+     
+        width: 33.3333333333%;
+    }
+    
+    .cct_logo_pic{
+    
+        width: 33.3333333333%;
     }
 }
